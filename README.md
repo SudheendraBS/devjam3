@@ -33,4 +33,4 @@ All of the material here is released under the [MIT license](https://github.com/
 NOTE: Appendix items are optional.
 
 ### Pre-requisite
-To get started with Apigee Edge, you will need to create an account and set up a free trial instance of Apigee Edge that you can use to build our labs today. Ask your instructor for your account details. You can also create a trial account by following instructions from [Lab0](https://github.com/SudheendraBS/devjam3/tree/master/Labs/Core)
+To get started with Apigee Edge, you will need to create an account and set up a free trial instance of Apigee Edge that you can use to build our labs today. Ask your instructor for your account details. You can also create a trial account by following instructions from [here](https://github.com/SudheendraBS/devjam3/tree/master/Labs/Core/Lab%200%20Sign-up%20with%20Apigee%20Edge)
