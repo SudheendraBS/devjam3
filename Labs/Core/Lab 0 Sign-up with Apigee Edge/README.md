@@ -12,7 +12,7 @@
 
   Select the *Launch* button under the *Create and Manage APIs* to access the Apigee Edge Management UI. This *SHOULD* take you to the Dashboard of the Apigee Edge Management UI which looks like this:
 
-  ![Apigee Dashboard](images/management-ui.png)
+  ![Apigee Dashboard](images/management-ui-new.png)
 
   Once you have successfully created an account and accessed the Apigee Edge Management UI, you are ready to start on the labs. 
  
