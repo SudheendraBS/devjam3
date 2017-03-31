@@ -10,7 +10,7 @@
 
   ![Apigee Launch Page](images/apigee-accounts.png)
 
-  Select the *Launch* button under the *Create and Manage APIs* to access the Apigee Edge Management UI. This *SHOULD* take you to the Dashboard of the Apigee Edge Management UI which looks like this:
+  Select the *Launch* button under the *Create and Manage APIs* to access the Apigee Edge Management UI. This will take you back to the login screen. Enter your credentials and this *SHOULD* take you to the Dashboard of the Apigee Edge Management UI which looks like this:
 
   ![Apigee Dashboard](images/management-ui-new.png)
 
