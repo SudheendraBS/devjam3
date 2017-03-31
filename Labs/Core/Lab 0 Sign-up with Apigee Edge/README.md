@@ -1,7 +1,3 @@
-# Apigee DevJam
-
-Welcome to the Apigee hands on DevJam workshop.
-
 # Getting Started
 
   In this workshop, you will get first hand exposure to Apigee Edge, the industry's leading API Management platform. To get started with Apigee Edge, you will need to create an account and set up a free trial instance of Apigee Edge that you can use to build our labs today.
